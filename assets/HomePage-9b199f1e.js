@@ -1,0 +1,1 @@
+import{j as e}from"./index-0639fc20.js";const o=()=>e.jsx("div",{className:"container mx-auto text-center dark:bg-neutral-800 rounded-b-lg shadow-2xl",children:e.jsx("h1",{className:" text-amber-400 font-bold text-6xl py-[316px]  animate-pulse",children:"Welcome to the phonebook!"})});export{o as default};
